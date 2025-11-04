@@ -32,5 +32,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/results/
 
 # 🛡️ Sensitive config files (DO NOT PUSH)
-/application/config/email_config.php
 /.env
